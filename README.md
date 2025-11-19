@@ -83,3 +83,5 @@ Beberapa ide untuk pengembangan lebih lanjut:
 - Menambahkan fitur filter acara berdasarkan genre musik, rentang harga, atau tanggal.
 - Implementasi sistem pembayaran tiket.
 - Menambahkan profil pengguna.
+
+Made with ❤️ by Lidan
